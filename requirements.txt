@@ -8,4 +8,6 @@ seaborn
 gTTS
 SpeechRecognition
 transformers==4.35.0   # optional — remove if you don't need it
+torch
 # DO NOT add 'torch' here for Streamlit Cloud
+
