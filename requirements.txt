@@ -4,19 +4,8 @@ mdurl==0.1.2
 pygments==2.19.2
 google-generativeai==0.8.5
 streamlit>=1.20.0
-
-
-# core
-streamlit>=1.20.0
-
-# Google Gemini client (pick the one matching your import)
-google-generativeai==0.8.5
-
-# ML / NLP (transformers + torch)
 transformers==4.35.0
-torch==2.2.2  # or pick the most appropriate compatible version for your Python runtime
-
-# other libs used in app
+torch==2.2.2
 pandas
 numpy
 scikit-learn
@@ -25,5 +14,6 @@ seaborn
 gTTS
 SpeechRecognition
 google-api-python-client
+
 
 
