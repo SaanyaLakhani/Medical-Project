@@ -1,11 +1,5 @@
-streamlit
+rich==14.2.0
+markdown-it-py==2.2.0
+mdurl==0.1.2
+pygments==2.19.2
 google-generative-ai
-pandas
-numpy
-scikit-learn
-transformers
-torch
-gTTS
-SpeechRecognition
-matplotlib
-seaborn
