@@ -1,0 +1,101 @@
+Name,Specialties,Address,Area,OpenHours,Rating,Contact,Type
+Breach Candy Hospital,Cardiology;Oncology;General Medicine,45 South Mumbai Road,South Mumbai,24 Hours,4.8,022-23671888,Private
+King Edward Memorial Hospital,Cardiology;Neurology;General Medicine,12 Parel Road,Parel,24 Hours,4.2,022-24107000,Government
+Jaslok Hospital,Cardiology;Nephrology;Oncology,89 Pedder Road,Pedder Road,9 AM - 9 PM,4.6,022-66573333,Private
+P. D. Hinduja National Hospital,Neurology;Cardiology;General Medicine,34 Mahim Road,Mahim,8 AM - 8 PM,4.7,022-24452445,Private
+Nanavati Hospital,Cardiology;Pulmonology;ENT,77 Vile Parle Road,Vile Parle,8 AM - 8 PM,4.5,022-26267500,Private
+Shushrusha Citizens' Co-op Hospital,Multispecialty;Emergency,91 Dadar West Road,Dadar West,24 Hours,4.1,022-24310000,Private
+Saint George Hospital,General Medicine;Surgery;Emergency,18 Downtown Road,Downtown Mumbai,24 Hours,4.2,022-22620248,Government
+Saifee Hospital,Multispecialty;Oncology;Cardiology,63 Charni Road,Girgaon,24 Hours,4.4,022-23861418,Private
+Kokilaben Dhirubhai Ambani Hospital,Cardiology;Nephrology;Oncology;Robotic Surgery,55 Four Bungalows Road,Andheri West,24 Hours,4.8,022-30990000,Private
+Tata Memorial Hospital,Oncology;Oncosurgery,67 DR Borges Road,Parel,24 Hours,4.6,022-24177000,Government
+Lilavati Hospital,Cardiology;Gastroenterology;Nephrology,78 Bandra West Road,Bandra,9 AM - 9 PM,4.3,022-26552222,Private
+Wockhardt Hospital,Neurology;Cardiology;Emergency,44 Mira Road,Mira Road,8 AM - 8 PM,4.5,022-61284444,Private
+Hiranandani Hospital,Orthopedics;Pediatrics;Radiology,88 Powai Road,Powai,24 Hours,4.4,022-25763300,Private
+Apollo Hospitals,General Medicine;Psychiatry;Cardiology,15 Navi Mumbai Road,Navi Mumbai,24 Hours,4.6,022-27626262,Private
+Fortis Hospital,Cardiology;Oncology;Dermatology,22 Mulund Goregaon Link,Mulund,24 Hours,4.7,022-67994444,Private
+Global Hospital,Nephrology;Orthopedics;ENT,76 Parel West Road,Parel,8 AM - 8 PM,4.2,022-67670101,Private
+SevenHills Hospital,General Medicine;ICU;Surgery,33 Marol Maroshi Road,Andheri East,24 Hours,4.5,022-67676767,Private
+SL Raheja Hospital,Cardiology;Oncology;General Medicine,95 Mahim West Road,Mahim,24 Hours,4.3,022-24449999,Private
+Sion Hospital,General Medicine;Emergency;Orthopedics,11 Sion Circle Road,Sion,24 Hours,4.1,022-24090000,Government
+Holy Family Hospital,Pediatrics;General Medicine;ENT,20 Bandra Hill Road,Bandra,9 AM - 9 PM,4.2,022-30610555,Private
+Bhatia Hospital,Orthopedics;Surgery;Neurology,37 Tardeo Road,Tardeo,8 AM - 8 PM,4.3,022-66660000,Private
+Rajawadi Hospital,General Medicine;ENT;Dermatology,88 Ghatkopar East Road,Ghatkopar,24 Hours,4,022-21000000,Government
+Cooper Hospital,Orthopedics;Emergency;Cardiology,66 Vile Parle East Road,Vile Parle,24 Hours,4.2,022-26207254,Government
+ESI Hospital,ENT;General Medicine;Surgery,19 Mulund Link Road,Mulund,8 AM - 8 PM,3.9,022-25634444,Government
+Bombay Hospital,Cardiology;Gastroenterology;Oncology,42 Marine Lines Road,Marine Lines,24 Hours,4.5,022-22067676,Private
+Habib Hospital,Neurology;General Medicine;Pediatrics,23 Churchgate Road,Churchgate,24 Hours,4.2,022-23114455,Private
+CritiCare Hospital,Emergency;Cardiology;Surgery,56 Dadar East Road,Dadar East,24 Hours,4.3,022-24335566,Private
+Parsee General Hospital,General Medicine;Orthopedics;ENT,48 Girgaum Road,Girgaum,8 AM - 8 PM,4.1,022-23456677,Private
+Bhaktivedanta Hospital,Cardiology;Neurology;Gastroenterology,31 Andheri East Road,Andheri East,24 Hours,4.5,022-28990022,Private
+Mahim Maternity Hospital,Pediatrics;Gynecology;General Medicine,17 Mahim West Road,Mahim West,9 AM - 9 PM,4,022-24445533,Government
+Terna Hospital,General Medicine;Surgery;Neurology,60 Nerul Road,Navi Mumbai,24 Hours,4.3,022-27778844,Private
+Surana Hospital,Oncology;Radiology;Cardiology,25 Vile Parle West Road,Vile Parle West,8 AM - 8 PM,4.4,022-26559900,Private
+Shree Hospital,Orthopedics;Emergency;General Medicine,85 Borivali West Road,Borivali West,24 Hours,4.1,022-28776655,Private
+Ashirwad Hospital,General Medicine;Psychiatry;Pediatrics,49 Ghatkopar West Road,Ghatkopar West,9 AM - 9 PM,4,022-22225555,Private
+Apex Hospitals,Cardiology;Neurology;Oncology,88 Kurla East Road,Kurla East,24 Hours,4.5,022-26889900,Private
+Balaji Hospital,General Medicine;Orthopedics;ENT,66 Malad East Road,Malad East,8 AM - 8 PM,4.2,022-28887777,Private
+MGM Hospital,Pediatrics;General Medicine;Surgery,14 Bandra East Road,Bandra East,24 Hours,4.4,022-26668888,Private
+Civic Hospital,Emergency;Cardiology;Neurology,59 Juhu Road,Juhu,24 Hours,4.3,022-27889999,Government
+Sunrise Hospital,General Medicine;Gastroenterology;Pulmonology,31 Andheri West Road,Andheri West,8 AM - 8 PM,4.1,022-27660022,Private
+Riddhi Hospital,Orthopedics;Oncology;Neurology,77 Chembur East Road,Chembur East,9 AM - 9 PM,4,022-29554433,Private
+Galaxy Hospital,Cardiology;Nephrology;General Medicine,98 Borivali East Road,Borivali East,24 Hours,4.5,022-26663344,Private
+Icon Hospital,General Medicine;Surgery;Emergency,35 Vile Parle East Road,Vile Parle East,24 Hours,4.3,022-25447788,Private
+Infinity Hospital,Pediatrics;Radiology;Dermatology,51 Mulund West Road,Mulund West,8 AM - 8 PM,4.4,022-26778899,Private
+Lifeline Hospital,Neurology;Psychiatry;General Medicine,69 Dadar West Road,Dadar West,24 Hours,4.5,022-23446655,Private
+Medicover Hospital,Oncology;Cardiology;Orthopedics,22 Kurla West Road,Kurla West,24 Hours,4.4,022-27774455,Private
+Apex Superspeciality,General Medicine;ENT;Pulmonology,44 Chembur West Road,Chembur West,9 AM - 9 PM,4.2,022-28339900,Private
+Guardian Hospital,Emergency;Surgery;Nephrology,77 Juhu West Road,Juhu West,24 Hours,4.3,022-28992233,Private
+Medstar Hospital,Cardiology;Oncology;General Medicine,18 Borivali West Road,Borivali West,8 AM - 8 PM,4.4,022-26665555,Private
+Lifecare Hospital,Orthopedics;Neurology;Psychiatry,28 Malad West Road,Malad West,9 AM - 9 PM,4.2,022-27774466,Private
+Lotus Hospital,General Medicine;ENT;Dermatology,53 Bandra West Road,Bandra West,24 Hours,4.3,022-26887777,Private
+Aviva Hospital,Cardiology;General Medicine;Oncology,12 Kurla West Road,Kurla West,24 Hours,4.4,022-26554433,Private
+Unity Hospital,Pediatrics;Orthopedics;ENT,33 Ghatkopar East Road,Ghatkopar East,9 AM - 9 PM,4.2,022-27667788,Private
+Vedant Hospital,Neurology;Psychiatry;Surgery,55 Malad East Road,Malad East,24 Hours,4.3,022-28885555,Private
+Aastha Hospital,General Medicine;Dermatology;Pulmonology,78 Andheri East Road,Andheri East,8 AM - 8 PM,4.1,022-26668899,Private
+Hope Hospital,Orthopedics;Cardiology;Emergency,25 Borivali West Road,Borivali West,24 Hours,4.3,022-28990000,Private
+Krishna Hospital,Pediatrics;Oncology;General Medicine,44 Bandra East Road,Bandra East,9 AM - 9 PM,4.2,022-28887700,Private
+Arpan Hospital,Neurology;General Medicine;Surgery,61 Dadar East Road,Dadar East,24 Hours,4.4,022-27889944,Private
+Metro Hospital,Cardiology;Pulmonology;ENT,72 Powai Road,Powai,8 AM - 8 PM,4.3,022-26663322,Private
+Nirmal Hospital,General Medicine;Orthopedics;Radiology,45 Chembur East Road,Chembur East,24 Hours,4.1,022-29554400,Private
+Grace Hospital,Pediatrics;Oncology;Neurology,33 Vile Parle West Road,Vile Parle West,9 AM - 9 PM,4.2,022-26770022,Private
+Trinity Hospital,General Medicine;Cardiology;Surgery,59 Mulund East Road,Mulund East,24 Hours,4.3,022-27776688,Private
+Ivy Hospital,Orthopedics;ENT;Emergency,82 Juhu East Road,Juhu East,8 AM - 8 PM,4.2,022-27889900,Private
+VCare Hospital,Neurology;Psychiatry;General Medicine,17 Bandra West Road,Bandra West,24 Hours,4.4,022-26665522,Private
+ReLife Hospital,Cardiology;Oncology;Gastroenterology,42 Dadar West Road,Dadar West,9 AM - 9 PM,4.3,022-24332244,Private
+Ankur Hospital,General Medicine;Surgery;Orthopedics,25 Churchgate Road,Churchgate,24 Hours,4.1,022-23114455,Private
+Faith Hospital,Pediatrics;ENT;Dermatology,19 Colaba Road,Colaba,8 AM - 8 PM,4.2,022-23002233,Private
+Sunshine Hospital,Neurology;General Medicine;Psychiatry,44 Malad West Road,Malad West,24 Hours,4.3,022-26779900,Private
+Omkar Hospital,Cardiology;Orthopedics;Emergency,38 Bandra West Road,Bandra West,9 AM - 9 PM,4.1,022-26664455,Private
+Divine Hospital,General Medicine;Oncology;Surgery,54 Andheri East Road,Andheri East,24 Hours,4.2,022-27665577,Private
+Alpha Hospital,Pediatrics;Neurology;ENT,65 Borivali East Road,Borivali East,8 AM - 8 PM,4.3,022-28779999,Private
+Beta Hospital,Orthopedics;Cardiology;Pulmonology,71 Chembur West Road,Chembur West,24 Hours,4.1,022-29550022,Private
+Gamma Hospital,General Medicine;Dermatology;Psychiatry,29 Sion East Road,Sion East,9 AM - 9 PM,4.2,022-24090011,Private
+Delta Hospital,Neurology;Surgery;Gastroenterology,77 Kurla East Road,Kurla East,24 Hours,4.3,022-26889977,Private
+Omega Hospital,Cardiology;Oncology;General Medicine,55 Juhu West Road,Juhu West,8 AM - 8 PM,4.1,022-27881122,Private
+Zion Hospital,Pediatrics;Orthopedics;ENT,21 Borivali West Road,Borivali West,24 Hours,4.2,022-26660099,Private
+Nova Hospital,Neurology;General Medicine;Surgery,14 Bandra East Road,Bandra East,9 AM - 9 PM,4.3,022-28887744,Private
+Care Hospital,Cardiology;Emergency;Pulmonology,43 Malad East Road,Malad East,24 Hours,4.1,022-27772233,Private
+HealWell Hospital,General Medicine;Psychiatry;Dermatology,35 Andheri West Road,Andheri West,8 AM - 8 PM,4.2,022-26668877,Private
+Trinity Care,Orthopedics;Surgery;General Medicine,61 Dadar West Road,Dadar West,24 Hours,4.3,022-24330000,Private
+Neptune Hospital,Cardiology;Oncology;Neurology,29 Kurla West Road,Kurla West,9 AM - 9 PM,4.1,022-26550011,Private
+Orion Hospital,Pediatrics;General Medicine;ENT,77 Borivali East Road,Borivali East,24 Hours,4.2,022-26665533,Private
+Zenith Hospital,Neurology;Surgery;Emergency,56 Powai Road,Powai,8 AM - 8 PM,4.3,022-26779999,Private
+Star Hospital,Cardiology;Orthopedics;Pulmonology,42 Chembur East Road,Chembur East,24 Hours,4.1,022-29554444,Private
+Skyline Hospital,General Medicine;Psychiatry;Gastroenterology,31 Bandra West Road,Bandra West,9 AM - 9 PM,4.2,022-28887777,Private
+Astha Care,Pediatrics;Neurology;Dermatology,68 Malad West Road,Malad West,24 Hours,4.3,022-26770000,Private
+Revive Hospital,Orthopedics;Emergency;General Medicine,22 Andheri East Road,Andheri East,8 AM - 8 PM,4.1,022-27665555,Private
+Wellness Hospital,Cardiology;Surgery;Neurology,55 Kurla East Road,Kurla East,24 Hours,4.2,022-26889900,Private
+CurePoint Hospital,General Medicine;ENT;Pulmonology,38 Borivali West Road,Borivali West,9 AM - 9 PM,4.3,022-26660022,Private
+HealPoint Hospital,Pediatrics;Oncology;General Medicine,16 Dadar East Road,Dadar East,24 Hours,4.1,022-27889944,Private
+Radiant Hospital,Neurology;Psychiatry;Surgery,47 Malad East Road,Malad East,8 AM - 8 PM,4.2,022-27772211,Private
+Bluecross Hospital,Cardiology;General Medicine;Oncology,79 Bandra East Road,Bandra East,24 Hours,4.3,022-28889999,Private
+GreenCare Hospital,Orthopedics;ENT;General Medicine,28 Powai Road,Powai,9 AM - 9 PM,4.1,022-26779900,Private
+Red Cross Hospital,Emergency;Surgery;Neurology,33 Kurla West Road,Kurla West,24 Hours,4.2,022-26550022,Private
+Mumbai Heart Center,Cardiology;Pulmonology;General Medicine,91 Borivali East Road,Borivali East,8 AM - 8 PM,4.3,022-26665555,Private
+OncoLife Hospital,Oncology;Radiology;Surgery,44 Bandra West Road,Bandra West,24 Hours,4.1,022-28887700,Private
+ChildCare Hospital,Pediatrics;ENT;General Medicine,22 Andheri West Road,Andheri West,9 AM - 9 PM,4.2,022-26668888,Private
+Vision Eye Hospital,Ophthalmology;General Medicine,37 Malad West Road,Malad West,24 Hours,4.3,022-26770033,Private
+Mumbai ENT Center,ENT;Surgery;General Medicine,15 Kurla East Road,Kurla East,8 AM - 8 PM,4.1,022-26889922,Private
+NeuroPlus Hospital,Neurology;Psychiatry;Emergency,60 Dadar West Road,Dadar West,24 Hours,4.2,022-24334444,Private
+Orthocare Hospital,Orthopedics;General Medicine;Surgery,42 Borivali West Road,Borivali West,9 AM - 9 PM,4.3,022-26660033,Private
