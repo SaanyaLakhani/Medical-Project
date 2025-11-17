@@ -5,4 +5,5 @@ langchain
 sentence-transformers
 requests
 torch
+google-generative-ai
 transformers
